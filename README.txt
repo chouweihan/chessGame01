@@ -11,3 +11,5 @@ Invalid:
 
 
 Saved files are saved to "MyGame.bin"
+
+Requires the installation of openJDK and JavaFX
